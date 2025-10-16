@@ -6,10 +6,10 @@ Desenvolvedora de Software em Formação, pronta para transformar problemas em s
 
 ### 👩‍💻 Sobre Mim
 
-- 🎓 Atualmente no 2º período de Sistemas de Informação na UFLA.
+- 🎓 **Formação:** Atualmente no **2º período** de Sistemas de Informação na **UFLA**.
 
-- 🌱 Meu foco principal é o desenvolvimento Back-End, aprofundando meus estudos em Java e Programação Orientada a Objetos (POO).
+- 🌱 **Meu foco principal:** Desenvolvimento Back-End, aprofundando meus estudos em Java e Programação Orientada a Objetos (POO).
 
-- 🎯 Meu objetivo é ter uma visão completa do ciclo de desenvolvimento (full stack), unindo a robustez do Back-End com a experiência do usuário no Front-End.
+- 🎯 **Objetivo:** Dominar a construção de sistemas robustos e eficientes, focando na lógica de negócios, segurança e performance do Back-End.
 
 - 💬 Adoraria me conectar e trocar ideias sobre tecnologia. Sinta-se à vontade para me chamar!
