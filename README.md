@@ -6,7 +6,7 @@ Desenvolvedora de Software em Formação, pronta para transformar problemas em s
 
 ### 👩‍💻 Sobre Mim
 
-- 🎓 **Formação:** Atualmente no **3º período** de Sistemas de Informação na **UFLA**.
+- 🎓 **Formação:** Atualmente no **4º período** de Sistemas de Informação na **UFLA**.
 
 - 🌱 **Meu foco principal:** Desenvolvimento de software, qualidade de código e resolução de problemas, com aprendizado contínuo.
 
