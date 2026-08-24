@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi!+I'm+Camila+%F0%9F%91%8B;Software+Developer+in+the+making;Turning+problems+into+solutions+through+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi!+I%27m+Camila+%F0%9F%91%8B;Software+Developer+in+the+making;Turning+problems+into+solutions+through+code" alt="Typing SVG" />
 </h1>
 <p align="center">
   <a href="https://github.com/Camilasnasc?tab=followers">
@@ -37,24 +37,27 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/VBA-5A5A5A?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBA"/>
 </p>
 
 ---
 
 ### 📊 My GitHub Stats
- 
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilasnasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilasnasc&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camilasnasc&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
 </p>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Camilasnasc&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Troféus"/>
 </p>
+
 ---
 
 ### 📫 Where to Find Me
