@@ -69,10 +69,9 @@
   <a href="https://github.com/Camilasnasc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="www.linkedin.com/in/camila-santos-nascimento-84676a294">
+  <a href="https://www.linkedin.com/in/camila-santos-nascimento-84676a294">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+  </a></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Camilasnasc/Camilasnasc/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
