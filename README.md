@@ -43,19 +43,22 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 My GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilasnasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilasnasc&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+  <img src="https://img.shields.io/github/followers/Camilasnasc?label=Followers&style=for-the-badge&color=6c63ff&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Camilasnasc?label=Stars&style=for-the-badge&color=6c63ff&logo=github" alt="Stars"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Camilasnasc&theme=tokyonight&hide_border=true" alt="Sequência de contribuições"/>
-</p>
+---
+
+### 🎯 Current Focus
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Camilasnasc&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Troféus"/>
+  <img src="https://img.shields.io/badge/Back--end_Development-6C63FF?style=for-the-badge" alt="Back-end"/>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-6C63FF?style=for-the-badge" alt="Reinforcement Learning"/>
+  <img src="https://img.shields.io/badge/Automation-6C63FF?style=for-the-badge" alt="Automation"/>
+  <img src="https://img.shields.io/badge/Code_Quality-6C63FF?style=for-the-badge" alt="Code Quality"/>
 </p>
 
 ---
@@ -66,11 +69,9 @@
   <a href="https://github.com/Camilasnasc">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Descomente e coloque seu link do LinkedIn:
-  <a href="SEU_LINK_DO_LINKEDIN">
+  <a href=www.linkedin.com/in/camila-santos-nascimento-84676a294>
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  -->
 </p>
 
 <p align="center">
