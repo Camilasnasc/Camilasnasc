@@ -27,8 +27,22 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/VBA-5A5A5A?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBA"/>
   <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"/>
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Power Query"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
+
+---
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/VBA-5A5A5A?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBA"/>
 </p>
 
 ---
@@ -36,8 +50,8 @@
 ### 📊 My GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilasnasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilasnasc&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
+  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=Camilasnasc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas"/>
+  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Camilasnasc&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
@@ -57,7 +71,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <!-- Descomente e coloque seu link do LinkedIn:
-  <a href="www.linkedin.com/in/camila-santos-nascimento-84676a294">
+  <a href="SEU_LINK_DO_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   -->
