@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="220" viewBox="0 0 260 220" role="img" aria-label="Code window illustration">
+  <rect x="10" y="20" width="240" height="170" rx="12" fill="#14112E" stroke="#6C63FF" stroke-width="2"/>
+  <path d="M10 32 a12 12 0 0 1 12 -12 H238 a12 12 0 0 1 12 12 V50 H10 Z" fill="#6C63FF"/>
+  <circle cx="30" cy="35" r="5" fill="#FF6B6B"/>
+  <circle cx="48" cy="35" r="5" fill="#FFD166"/>
+  <circle cx="66" cy="35" r="5" fill="#06D6A0"/>
+  <g font-family="'Fira Code', monospace" font-size="14">
+    <text x="28" y="80" fill="#8F88FF">class</text><text x="76" y="80" fill="#FFFFFF">Camila {</text>
+    <text x="44" y="106" fill="#06D6A0">learn</text><text x="92" y="106" fill="#FFFFFF">();</text>
+    <text x="44" y="130" fill="#06D6A0">build</text><text x="92" y="130" fill="#FFFFFF">();</text>
+    <text x="44" y="154" fill="#06D6A0">automate</text><text x="116" y="154" fill="#FFFFFF">();</text>
+    <text x="28" y="178" fill="#FFFFFF">}</text>
+  </g>
+</svg>

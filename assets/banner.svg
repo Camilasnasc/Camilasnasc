@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Hello World - Welcome to my profile">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1B1740"/>
+      <stop offset="0.55" stop-color="#4B3FD1"/>
+      <stop offset="1" stop-color="#6C63FF"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="1" r="0.8">
+      <stop offset="0" stop-color="#8F88FF" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#6C63FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect width="1000" height="220" rx="8"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1000" height="220" fill="url(#bg)"/>
+    <ellipse cx="500" cy="260" rx="330" ry="230" fill="url(#glow)"/>
+    <g fill="none" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="1">
+      <path d="M40 195 L68 160 H120 L92 195 Z"/>
+      <path d="M80 195 L108 160 H160 L132 195 Z"/>
+      <path d="M840 195 L868 160 H920 L892 195 Z"/>
+      <path d="M880 195 L908 160 H960 L932 195 Z"/>
+    </g>
+    <circle cx="500" cy="48" r="22" fill="#14112E" stroke="#FFFFFF" stroke-width="2"/>
+    <text x="500" y="56" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#FFFFFF">&lt;/&gt;</text>
+    <text x="500" y="125" text-anchor="middle" font-family="'Fira Code', monospace" font-size="52" font-weight="700" fill="#FFFFFF" letter-spacing="2">HELLO WORLD</text>
+    <text x="500" y="152" text-anchor="middle" font-family="'Fira Code', monospace" font-size="13" font-weight="600" fill="#FFFFFF" letter-spacing="2">WELCOME TO MY PROFILE</text>
+    <text x="40" y="112" font-family="'Fira Code', monospace" font-size="13" fill="#FFFFFF">github.com/Camilasnasc</text>
+    <text x="960" y="112" text-anchor="end" font-family="'Fira Code', monospace" font-size="13" fill="#FFFFFF">camila.san.nascimento@gmail.com</text>
+  </g>
+</svg>
