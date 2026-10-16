@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-v2.svg" alt="Hello World - Welcome to my profile"/>
+  <img src="assets/banner-v3.svg" alt="Hello World - Welcome to my profile"/>
 </p>
 
 <h2>😎 I'M CAMILA!</h2>
