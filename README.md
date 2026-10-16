@@ -1,22 +1,31 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi!+I%27m+Camila+%F0%9F%91%8B;Software+Developer+in+the+making;Turning+problems+into+solutions+through+code" alt="Typing SVG" />
-</h1>
 <p align="center">
-  <a href="https://github.com/Camilasnasc?tab=followers">
-    <img src="https://img.shields.io/github/followers/Camilasnasc?label=Seguidores&style=social" alt="Seguidores"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Camilasnasc&label=Visitas+no+perfil&color=6c63ff&style=flat" alt="Contador de visitas"/>
+  <img src="assets/banner.svg" alt="Hello World - Welcome to my profile"/>
 </p>
 
----
+<h2>😎 I'M CAMILA!</h2>
 
-### 👩‍💻 About Me
-
-- 🎓 Estudante de **Sistemas de Informação** na **UFLA** (Universidade Federal de Lavras)
-- 🏭 **Jovem Aprendiz** na **InterCement**, na área de **PCM** — automação de processos no SAP e dashboards de indicadores de manutenção
-- 🔬 Faço **Iniciação Científica** em **Aprendizado por Reforço** (Reinforcement Learning)
-- 🌱 Foco em **back-end**, qualidade de código, automação e resolução de problemas
-- 💬 Adoraria trocar ideias sobre tecnologia — sinta-se à vontade para me chamar!
+<table>
+  <tr>
+    <td valign="top">
+      <p><em>Software Developer in the making — turning problems into solutions through code</em></p>
+      <p>Estudante de Sistemas de Informação com foco em <strong>back-end</strong>, automação e <strong>Aprendizado por Reforço</strong>, apaixonada por qualidade de código e resolução de problemas.</p>
+      <ul>
+        <li>🎓 Estudante de <strong>Sistemas de Informação</strong> na <strong>UFLA</strong> (Universidade Federal de Lavras)</li>
+        <li>🏭 <strong>Jovem Aprendiz</strong> na <strong>InterCement</strong>, na área de <strong>PCM</strong> — automação de processos no SAP e dashboards de indicadores de manutenção</li>
+        <li>🔬 Faço <strong>Iniciação Científica</strong> em <strong>Aprendizado por Reforço</strong> (Reinforcement Learning)</li>
+        <li>🌱 Foco em <strong>back-end</strong>, qualidade de código, automação e resolução de problemas</li>
+        <li>💬 Adoraria trocar ideias sobre tecnologia — sinta-se à vontade para me chamar!</li>
+      </ul>
+      <img src="https://komarev.com/ghpvc/?username=Camilasnasc&label=PROFILE+VIEWS&color=6c63ff&style=flat-square" alt="Profile views"/>
+      <a href="https://github.com/Camilasnasc?tab=followers">
+        <img src="https://img.shields.io/github/followers/Camilasnasc?label=Seguidores&style=flat-square&color=6c63ff" alt="Seguidores"/>
+      </a>
+    </td>
+    <td valign="top">
+      <img src="assets/illustration.svg" width="260" alt="Code window illustration"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
