@@ -16,9 +16,6 @@
         <li>🌱 Foco em <strong>back-end</strong>, qualidade de código, automação e resolução de problemas</li>
         <li>💬 Adoraria trocar ideias sobre tecnologia — sinta-se à vontade para me chamar!</li>
       </ul>
-      <a href="https://github.com/Camilasnasc?tab=followers">
-        <img src="https://img.shields.io/github/followers/Camilasnasc?label=Seguidores&style=flat-square&color=6c63ff" alt="Seguidores"/>
-      </a>
     </td>
     <td valign="top">
       <img src="assets/illustration.svg" width="260" alt="Code window illustration"/>
