@@ -16,7 +16,6 @@
         <li>🌱 Foco em <strong>back-end</strong>, qualidade de código, automação e resolução de problemas</li>
         <li>💬 Adoraria trocar ideias sobre tecnologia — sinta-se à vontade para me chamar!</li>
       </ul>
-      <img src="https://komarev.com/ghpvc/?username=Camilasnasc&label=PROFILE+VIEWS&color=6c63ff&style=flat-square" alt="Profile views"/>
       <a href="https://github.com/Camilasnasc?tab=followers">
         <img src="https://img.shields.io/github/followers/Camilasnasc?label=Seguidores&style=flat-square&color=6c63ff" alt="Seguidores"/>
       </a>
@@ -48,15 +47,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/VBA-5A5A5A?style=for-the-badge&logo=visualbasic&logoColor=white" alt="VBA"/>
-</p>
-
----
-
-### 📊 My GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Camilasnasc?label=Followers&style=for-the-badge&color=6c63ff&logo=github" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Camilasnasc?label=Stars&style=for-the-badge&color=6c63ff&logo=github" alt="Stars"/>
 </p>
 
 ---
