@@ -2,7 +2,7 @@
   <img src="assets/banner-v3.svg" alt="Hello World - Welcome to my profile"/>
 </p>
 
-<h2>😎 I'M CAMILA!</h2>
+<h2>I'M CAMILA!</h2>
 
 <table>
   <tr>
